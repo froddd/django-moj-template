@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 sdict = dict(
   name = 'django-moj-template',
   packages = find_packages(),
-  version = '0.23.1',
+  version = '0.23.2',
   description = 'MOJ Template',
   long_description = 'A base template for Ministry of Justice Services based on the GOV.UK template.',
   url = 'https://github.com/ministryofjustice/moj_template',
